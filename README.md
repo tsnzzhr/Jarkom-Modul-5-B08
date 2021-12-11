@@ -27,7 +27,9 @@ ___________
 ![](https://github.com/tsnzzhr/Jarkom-Modul-5-B08-2021/blob/main/img_modul5/doriki_script.PNG)
 ![](https://github.com/tsnzzhr/Jarkom-Modul-5-B08-2021/blob/main/img_modul5/doriki_namedconfoptions.PNG)
 ### JORGE
+![](img_modul5/jorge_script.PNG)
 ### MAINGATE
+![](img_modul5/maingate_script.PNG)
 ### BLUENO
 ![](img_modul5/blueno_script.PNG)
 ### CIPHER
