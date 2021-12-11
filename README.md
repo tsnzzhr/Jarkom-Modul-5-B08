@@ -10,7 +10,7 @@ ___________
 ![](img_modul5/config.PNG)
 ![](img_modul5/modul-5-subnet.png)
 ### FOOSHA
-![](img_modul5/foosha_script.png)
+![](img_modul5\foosha_script.PNG)
 ### WATER7
 ![](img_modul5/water7_script.PNG)
 ![](img_modul5/water7_iscdhcprelay.PNG)
