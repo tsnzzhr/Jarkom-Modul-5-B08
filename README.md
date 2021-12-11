@@ -18,7 +18,14 @@ ___________
 ![](img_modul5/guanhao_script.PNG)
 ![](img_modul5/guanhao_iscdhcprelay.PNG)
 ### JIPANGU
+![](https://github.com/tsnzzhr/Jarkom-Modul-5-B08-2021/blob/main/img_modul5/jipangu_script.PNG)
+![](https://github.com/tsnzzhr/Jarkom-Modul-5-B08-2021/blob/main/img_modul5/jipangu_iscdhcpserver.PNG)
+![](https://github.com/tsnzzhr/Jarkom-Modul-5-B08-2021/blob/main/img_modul5/jipangu_dhcpd_conf0.PNG)
+![](https://github.com/tsnzzhr/Jarkom-Modul-5-B08-2021/blob/main/img_modul5/jipangu_dhcpd_conf.PNG)
+![](https://github.com/tsnzzhr/Jarkom-Modul-5-B08-2021/blob/main/img_modul5/jipangu_dhcpd_conf2.PNG)
 ### DORIKI
+![](https://github.com/tsnzzhr/Jarkom-Modul-5-B08-2021/blob/main/img_modul5/doriki_script.PNG)
+![](https://github.com/tsnzzhr/Jarkom-Modul-5-B08-2021/blob/main/img_modul5/doriki_namedconfoptions.PNG)
 ### JORGE
 ### MAINGATE
 ### BLUENO
