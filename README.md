@@ -26,3 +26,9 @@ ____
 4. `Akses dari subnet Blueno dan Cipher hanya diperbolehkan pada pukul 07.00 - 15.00 pada hari Senin sampai Kamis.`
 
 5. `Akses dari subnet Elena dan Fukuro hanya diperbolehkan pada pukul 15.01 hingga pukul 06.59 setiap harinya.`
+
+
+![alt](https://github.com/tsnzzhr/Jarkom-Modul-5-B08-2021/blob/main/img_modul5/no5.PNG)
+
+Kendala :
+- Testing Belum Bisa Dilakukan Karena Bermasalah Dengan Komputer Host.
